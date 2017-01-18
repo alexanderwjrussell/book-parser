@@ -17,7 +17,10 @@ namespace Parser
 
 			foreach (var word in words)
 			{
-				countedWords.Add(word, 1);
+				if (!countedWords.ContainsKey(word))
+					countedWords.Add(word, 1);
+				else
+					countedWords[word] += 1;
 			}
 
 			return countedWords;
