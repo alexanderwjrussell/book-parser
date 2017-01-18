@@ -5,7 +5,7 @@ namespace Parser
 	{
 		public string Read(string fileName)
 		{
-			return null;
+			return "not null";
 		}
 	}
 }
