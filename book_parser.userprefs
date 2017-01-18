@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{4F35CF4B-43E0-4C06-A5A4-AF3495CFE5A1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Parser/TheRailwayChildren.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookParserExe/Program.cs">
     <Files>
-      <File FileName="Parser/Parser.cs" Line="1" Column="1" />
+      <File FileName="Parser/Parser.cs" Line="9" Column="1" />
       <File FileName="ParserTests/ParserTests.cs" Line="19" Column="4" />
       <File FileName="Parser/PrimeChecker.cs" Line="21" Column="1" />
       <File FileName="ParserTests/PrimeCheckerTests.cs" Line="14" Column="25" />
-      <File FileName="BookParserExe/Program.cs" Line="21" Column="2" />
+      <File FileName="BookParserExe/Program.cs" Line="13" Column="72" />
       <File FileName="Parser/TheRailwayChildren.txt" Line="7881" Column="35" />
     </Files>
     <Pads>
