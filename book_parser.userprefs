@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Parser/Parser.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParserTests/ParserTests.cs">
     <Files>
-      <File FileName="Parser/Parser.cs" Line="8" Column="47" />
-      <File FileName="ParserTests/ParserTests.cs" Line="1" Column="23" />
+      <File FileName="Parser/Parser.cs" Line="1" Column="1" />
+      <File FileName="ParserTests/ParserTests.cs" Line="62" Column="15" />
+      <File FileName="Parser/PrimeChecker.cs" Line="1" Column="1" />
+      <File FileName="ParserTests/PrimeCheckerTests.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">

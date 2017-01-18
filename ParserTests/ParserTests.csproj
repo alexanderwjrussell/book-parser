@@ -32,6 +32,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ParserTests.cs" />
+    <Compile Include="PrimeCheckerTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
