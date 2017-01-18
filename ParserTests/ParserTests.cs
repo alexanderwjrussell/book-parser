@@ -49,5 +49,20 @@ namespace ParserTests
 
 			Assert.That(parser.CountWords("Charlie and the Chocolate Factory"), Is.EqualTo(words));
 		}
+
+		[Test]
+		public void Should_CountEachTimeEachWordAppearsRandomRepeatedString()
+		{
+			var parser = new Parser.Parser();
+
+			var words = new Dictionary<string, int>
+			{
+				{"Test", 3},
+				{"test", 3},
+				{"TEST", 3},
+			};
+
+			Assert.That(parser.CountWords("Test Test test test TEST TEST test Test TEST"), Is.EqualTo(words));
+		}
 	}
 }
