@@ -1,25 +1,17 @@
 ﻿using NUnit.Framework;
-using System;
-using Parser;
 namespace ParserTests
 {
 	[TestFixture]
 	public class ParserTests
 	{
-		[Test]
-		public void Should_ReturnSomethingFromBook()
+		[TestCase("Charlie.txt", "Charlie and the Chocolate Factory")]
+		[TestCase("Cat.txt", "The Cat in the Hat")]
+		public void Should_ReturnContentsFromBook_WhenAccessedFromFile(string fileName, string text)
 		{
 			var parser = new Parser.Parser();
 
-			Assert.That(parser.Read("Cat.txt"), Is.Not.Null);
-		}
-
-		[Test]
-		public void Should_ReturnContentFromBook_WhenAccessedFromFile()
-		{
-			var parser = new Parser.Parser();
-
-			Assert.That(parser.Read("Cat.txt"), Is.EqualTo("The Cat in the Hat"));
+			Assert.That(parser.Read(fileName), Is.Not.Null);
+			Assert.That(parser.Read(fileName), Is.EqualTo(text));
 		}
 	}
 }
