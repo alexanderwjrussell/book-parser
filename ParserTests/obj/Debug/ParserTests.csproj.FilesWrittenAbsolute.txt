@@ -1,0 +1,8 @@
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/nunit.framework.dll
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/Parser.dll
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/Parser.dll.mdb
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/ParserTests.dll.mdb
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/ParserTests.dll
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/obj/Debug/ParserTests.dll
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/obj/Debug/ParserTests.dll.mdb

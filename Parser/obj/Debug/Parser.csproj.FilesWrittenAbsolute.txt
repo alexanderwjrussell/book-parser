@@ -1,0 +1,5 @@
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/Parser/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/Parser/bin/Debug/Parser.dll.mdb
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/Parser/bin/Debug/Parser.dll
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/Parser/obj/Debug/Parser.dll
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/Parser/obj/Debug/Parser.dll.mdb
