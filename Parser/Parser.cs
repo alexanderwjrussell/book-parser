@@ -12,14 +12,15 @@ namespace Parser
 
 		public Dictionary<string, int> CountWords(string contents)
 		{
-			return new Dictionary<string, int>
+			var words = contents.Split(' ');
+			var countedWords = new Dictionary<string, int>();
+
+			foreach (var word in words)
 			{
-				{ "The", 1 },
-				{ "Cat", 1},
-				{ "in", 1},
-				{ "the", 1},
-				{ "Hat", 1}
-			};
+				countedWords.Add(word, 1);
+			}
+
+			return countedWords;
 		}
 	}
 }
