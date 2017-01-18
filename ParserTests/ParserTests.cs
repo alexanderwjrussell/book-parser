@@ -32,5 +32,22 @@ namespace ParserTests
 
 			Assert.That(parser.CountWords("The Cat in the Hat"), Is.EqualTo(words));
 		}
+
+		[Test]
+		public void Should_CountEachTimeEachWordAppearsInADifferentBook()
+		{
+			var parser = new Parser.Parser();
+
+			var words = new Dictionary<string, int>
+			{
+				{"Charlie", 1},
+				{"and", 1},
+				{"the", 1},
+				{"Chocolate", 1},
+				{"Factory", 1}
+			};
+
+			Assert.That(parser.CountWords("Charlie and the Chocolate Factory"), Is.EqualTo(words));
+		}
 	}
 }
