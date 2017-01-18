@@ -5,7 +5,7 @@ namespace Parser
 	{
 		public string Read(string fileName)
 		{
-			return "The Cat in the Hat";
+			return System.IO.File.ReadAllText(fileName);
 		}
 	}
 }

@@ -6,3 +6,5 @@
 /Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/ParserTests.dll
 /Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/obj/Debug/ParserTests.dll
 /Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/obj/Debug/ParserTests.dll.mdb
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/Cat.txt
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/ParserTests/bin/Debug/Charlie.txt
