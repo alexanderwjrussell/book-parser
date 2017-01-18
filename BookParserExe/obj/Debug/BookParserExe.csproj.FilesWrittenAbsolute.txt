@@ -1,0 +1,10 @@
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/bin/Debug/BookParserExe.exe.mdb
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/bin/Debug/BookParserExe.exe
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/obj/Debug/BookParserExe.exe
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/obj/Debug/BookParserExe.exe.mdb
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/bin/Debug/Cat.txt
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/bin/Debug/Charlie.txt
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/bin/Debug/Parser.dll
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/bin/Debug/Parser.dll.mdb
+/Users/alexanderwjrussell/Git/CTM Tech Test/book_parser/BookParserExe/bin/Debug/TheRailwayChildren.txt

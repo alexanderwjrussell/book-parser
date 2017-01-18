@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserTests", "ParserTests\ParserTests.csproj", "{8B777148-FDF9-44F6-B7F2-D912D935C4B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookParserExe", "BookParserExe\BookParserExe.csproj", "{4F35CF4B-43E0-4C06-A5A4-AF3495CFE5A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{8B777148-FDF9-44F6-B7F2-D912D935C4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B777148-FDF9-44F6-B7F2-D912D935C4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B777148-FDF9-44F6-B7F2-D912D935C4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F35CF4B-43E0-4C06-A5A4-AF3495CFE5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F35CF4B-43E0-4C06-A5A4-AF3495CFE5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F35CF4B-43E0-4C06-A5A4-AF3495CFE5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F35CF4B-43E0-4C06-A5A4-AF3495CFE5A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
