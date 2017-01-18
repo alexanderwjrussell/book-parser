@@ -4,7 +4,7 @@
 	{
 		public bool IsPrime(int number)
 		{
-			return false;
+			return true;
 		}
 	}
 }
